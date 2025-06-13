@@ -24,4 +24,10 @@ My first-ever system-level programming language...Here we go!
       <li>Methods, Formatting Floats, Casting/Converting Types to Others, Mathematical Operations, Augmented Assignment Operators, Equality and Inequality, AND Logic, OR Logic, Display Trait, Debug Trait, dbg! Macro, and Generics</li>
     </ul>
   </li>
+  <li>Section 4
+    <ul>
+      <li>Functions, Parameters/Arguments, Explicit & Implicit Return Types</li>
+      <li>Blocks, Units</li>
+    </ul>
+  </li>
 </ul>
