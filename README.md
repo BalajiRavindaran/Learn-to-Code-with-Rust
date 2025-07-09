@@ -38,4 +38,18 @@ My first-ever system-level programming language...Here we go!
       <li>Recursion</li>
     </ul>
   </li>
+  <li>Section 6
+    <ul>
+      <li>Ownership</li>
+      <li>Stack and Heap</li>
+      <li>Copy Trait</li>
+      <li>str vs String Type</li>
+      <li>push_str Method</li>
+      <li>Moves/Transfers of Ownership</li>
+      <li>drop Function, clone Method</li>
+      <li>References and Borrows</li>
+      <li>Functions and Ownership, Mutable Parameters</li>
+      <li>Returning Owned Values</li>
+    </ul>
+  </li>
 </ul>
