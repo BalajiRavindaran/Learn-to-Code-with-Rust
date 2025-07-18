@@ -52,4 +52,26 @@ My first-ever system-level programming language...Here we go!
       <li>Returning Owned Values</li>
     </ul>
   </li>
+  <li>Section 7
+    <ul>
+      <li>Immutable References</li>
+      <li>Mutable references</li>
+      <li>Multiple references</li>
+      <li>More Ownership and References</li>
+      <li>Dangling references</li>
+      <li>Ownership in Composite Structures (Arrays, Tuples)</li>
+    </ul>
+  </li>
 </ul>
+
+
+
+
+
+
+
+
+
+
+
+
