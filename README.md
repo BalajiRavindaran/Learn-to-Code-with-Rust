@@ -62,7 +62,31 @@ My first-ever system-level programming language...Here we go!
       <li>Ownership in Composite Structures (Arrays, Tuples)</li>
     </ul>
   </li>
+  <li>Section 8
+    <ul>
+      <li>String slices</li>
+      <li>String literals</li>
+      <li>Range extraction syntax</li>
+      <li>Range extraction shortcuts</li>
+      <li>Slices as Function Parameters</li>
+      <li>Array slices</li>
+      <li>Mutable slices</li>
+    </ul>
+  </li>
 </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
